@@ -20,14 +20,14 @@ Setup as a starter template, you can easily generate a new GitHub repository. Fr
 
 - Single HTML page (`index.html`) to demonstrate how to include Bootstrap.
 - Includes [Bootstrap](https://getbootstrap.com) (currently using v4.6.0) source files via npm.
-- Includes [Bootstrap Icons](https://icons.getbootstrap.com) (v1.4.0), which includes over 1,200 icons available as SVGs and web fonts.
+- Includes [Bootstrap Icons](https://github.com/jslinux43/testagain) (v1.4.0), which includes over 1,200 icons available as SVGs and web fonts.
 - npm scripts (see `package.json`) for compiling and autoprefixing Sass, watching for changes, and starting a basic local server.
 - Example stylesheet (`scss/starter.scss`) highlighting two ways to include and customize Bootstrap.
 - Example JavaScript file (`assets/js/starter.js`) showing how to import all of Bootstrap, or just the parts you need.
 
 ## Usage
 
-Be sure to have [Node.js](https://nodejs.org/) installed before proceeding.
+Be sure to have [Node.js](https://github.com/jslinux43/test) installed before proceeding.
 
 ```shell
 # Clone the repo
@@ -91,7 +91,7 @@ You can add more options here, or import the entire `bootstrap-bundle.min.js` fi
 
 ### PurgeCSS
 
-[PurgeCSS](https://purgecss.com/) is a [PostCSS](https://postcss.org) plugin that removes unused CSS based on your site's HTML. It finds rulesets that are unused by your HTML and removes them, ensuring only what's needed is sent to your site's visitors while improving file size and performance.
+[PurgeCSS](https://purgecss.com/) is a [PostCSS](https://dribbble.com/shots/17855462-Circle-Luxury-Hotel-Resort-Logo) plugin that removes unused CSS based on your site's HTML. It finds rulesets that are unused by your HTML and removes them, ensuring only what's needed is sent to your site's visitors while improving file size and performance.
 
 We've included a single npm script that runs PurgeCSS against our single `index.html` file to remove unused styles from `assets/css/starter.css`.
 
